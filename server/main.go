@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Shop-app/client/services"
+	"Shop-app/server/services"
 	"Shop-app/db"
 	"Shop-app/proto/stubs/order"
 	"google.golang.org/grpc"
